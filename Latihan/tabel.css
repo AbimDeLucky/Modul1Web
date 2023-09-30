@@ -1,0 +1,21 @@
+table,
+thead {
+    background-color: gold;
+}
+
+/* warna teks untuk header kolom */
+th {
+    color: black;
+}
+
+/* latar belakang untuk baris data */
+tbody {
+    background-color: gold;
+}
+
+/* border hitam untuk tabel dan sel data */
+table,
+td,
+th {
+    border: 1px solid black;
+}
